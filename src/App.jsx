@@ -52,6 +52,13 @@ const gmailComposeUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${emailAd
 
 const songs = [
   {
+    title: "Mahabharat",
+    artist: "",
+    mood: "",
+    src: "/audio/Mahabharat – Title Song  Mahabharat (महाभारत) Stories  B. R. Chopra - Pen  Bhakti.mp3",
+    cover: "/covers/mahabharat.jpg"
+  },
+  {
     title: "Gale lag ja",
     artist: "",
     mood: "",
@@ -92,13 +99,6 @@ const songs = [
     mood: "",
     src: "/audio/Still Rollin Ringtone Ringtone (DjPunjab.is).mp3",
     cover: "/covers/still-rollin.webp"
-  },
-  {
-    title: "Mahabharat",
-    artist: "",
-    mood: "",
-    src: "/audio/Mahabharat – Title Song  Mahabharat (महाभारत) Stories  B. R. Chopra - Pen  Bhakti.mp3",
-    cover: "/covers/mahabharat.jpg"
   },
   {
     title: "Wavy",
